@@ -55,8 +55,10 @@ class Main extends Component{
 
         return(
             <div>
+
             {!this.state.user ?
                 (<div className="mainBlock">
+
                 {form}
 
                 {!this.state.formSwitcher ?

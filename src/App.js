@@ -5,7 +5,13 @@ import Main from './components/Main';
 function App() {
   return (
     <div className="App">
-      <Main/>
+
+      <div className="appy">
+      <h2>Tracker</h2>
+        <p>Spend what is left after saving !</p>
+      </div>
+      <Main />
+
     </div>
   );
 }

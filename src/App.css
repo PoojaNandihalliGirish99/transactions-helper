@@ -3,5 +3,11 @@ body{
 
   background: #005AA7;  /* fallback for old browsers */
  
-  color:black;
+  /* color:black; */
+}
+.appy{
+  text-align: center;
+  margin: 50px 0px 0px 0px;
+  font-family: 'Roboto Mono', monospace;
+  color: white;
 }
